@@ -1,7 +1,7 @@
 phase-change
 ============
 
-Demonstrating phase transitions in belief propagation convergence in the stochastic block model 
+Demonstrating phase transitions in belief propagation convergence in the stochastic block model
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %   Copyright 2014 Gamelan Labs, Inc.
